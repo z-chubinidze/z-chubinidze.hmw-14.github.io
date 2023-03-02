@@ -122,6 +122,16 @@ body{
     text-decoration: none;
     
 }
+.nav_button a{
+    font-family:WorkSans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 140%;
+    text-align: center;
+    color: #FFFFFF;
+    text-decoration: none;
+}
 .nav-link{
     font-family:WorkSans;
     font-style: normal;
